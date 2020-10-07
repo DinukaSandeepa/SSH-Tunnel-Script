@@ -28,21 +28,23 @@ fi
 cat >> /etc/banner.html <<EOL
 <html>
 <body>
-<h4>&#9734; <font color="#20B2AA">🔥 DARK SHADOW SERVER 🔥</font> &#9734;</h4>
-<font color="#8A2BE2">&#187; NO SPAM !!!</font><br>
-<font color="#A52A2A">&#187; NO DDOS !!!</font><br>
-<font color="#6495ED">&#187; NO HACKING !!!</font><br>
-<font color="#008B8B">&#187; NO CARDING !!!</font><br>
-<font color="#9932CC">&#187; NO TORRENT !!!</font><br>
-<font color="#1E90FF">&#187; NO OVER DOWNLOADING !!!</font><br>
+<b><h3><font color="#17A589">&#127480;&#127468; JARVIS SG SERVER &#127480;&#127468;</font>
 <br>
-<b><font color="#FF6347">⚠ අවවාදයයි! ⚠
-
-⛔ Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. ⛔
-
-🔰Configured By DINUKA CREATION🔰
-&trade;</font></b>
 <br>
+<b><font color="#E74C3C">&#128683; NO SPAM &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO DDOS &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO HACKING &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO CARDING &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO TORRENT &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO OVER DOWNLOADING &#128683</font></b><br>
+<br>
+
+<b><h4><font color="#E74C3C">&#9888;&#65039; අවවාදයයි! &#9888;&#65039;</font>
+<br>
+<font color="#FFFF00"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. </font></h4></b><br>
+<b><h4><font color="#66ff6d">&#128304; Configured By DINUKA CREATION &#128304;</font>
+<br>
+<font color="#66ff6d">&#127473;&#127472; WhatsApp : +44 7529 2042 52 &#127473;&#127472;</font></h4></b>
 </body>
 </html>
 EOL
