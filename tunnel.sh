@@ -41,7 +41,7 @@ cat >> /etc/banner.html <<EOL
 
 <b><h4><font color="#E74C3C">&#9888;&#65039; අවවාදයයි! &#9888;&#65039;</font>
 <br>
-<font color="#FFFF00"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. </font></h4></b><br>
+<font color="#FFFF00"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. <br> Auto Reboot 4.00 A.M. <br> Expire Date : 2020 Nov 10</font></h4></b><br>
 <b><h4><font color="#66ff6d">&#128304; Configured By DINUKA CREATION &#128304;</font>
 <br>
 <font color="#66ff6d">&#127473;&#127472; WhatsApp : +44 7529 2042 52 &#127473;&#127472;</font></h4></b>
