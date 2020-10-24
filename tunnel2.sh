@@ -58,16 +58,27 @@ fi
 
 echo -e "\e[96mCreating dropbear banner\e[0m"
 cat >> "$FILE2" <<EOL
-<h4>&#9734; <font color="#20B2AA">PRIVATE SERVER</font> &#9734;</h4>
-<font color="#8A2BE2">&#187; NO SPAM !!!</font><br>
-<font color="#A52A2A">&#187; NO DDOS !!!</font><br>
-<font color="#6495ED">&#187; NO HACKING !!!</font><br>
-<font color="#008B8B">&#187; NO CARDING !!!</font><br>
-<font color="#9932CC">&#187; NO TORRENT !!!</font><br>
-<font color="#1E90FF">&#187; NO OVER DOWNLOADING !!!</font><br>
+<html>
+<body>
+<b><h3><font color="#17A589">&#127480;&#127468; JARVIS SG SERVER &#127480;&#127468;</font>
 <br>
-<b><font color="#FF6347">mAX web&trade;</font> Auto Script 2.0</b>
 <br>
+<b><font color="#E74C3C">&#128683; NO SPAM &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO DDOS &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO HACKING &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO CARDING &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO TORRENT &#128683</font></b><br>
+<b><font color="#E74C3C">&#128683; NO OVER DOWNLOADING &#128683</font></b><br>
+<br>
+
+<b><h4><font color="#E74C3C">&#9888;&#65039; අවවාදයයි! &#9888;&#65039;</font>
+<br>
+<font color="#FFFF00"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. <br> Auto Reboot 4.00 A.M. <br> Expire Date : 2020 Nov 10</font></h4></b><br>
+<b><h4><font color="#66ff6d">&#128304; Configured By DINUKA CREATION &#128304;</font>
+<br>
+<font color="#66ff6d">&#127473;&#127472; WhatsApp : +44 7529 2042 52 &#127473;&#127472;</font></h4></b>
+</body>
+</html>
 EOL
 
 echo -e "\e[96mStarting dropdear services\e[0m"
@@ -206,8 +217,8 @@ echo " "
 echo -e "\e[96mInstallation has been completed!!\e[0m"
 echo " "
 echo "--------------------------- Configuration Setup Server -------------------------"
-echo "--------------- Script from @ultimate_lurker69 | @CHATHURANGA_91 ---------------"
-echo "                                Copyright mAX web™                              "
+echo "-------------------------- Script from DINUKA SANDEEPA --------------------------"
+echo "                            Copyright DINUKA CREATION                              "
 echo " "
 echo "Server Information"
 echo "   - IP address 	: ${myip}"
