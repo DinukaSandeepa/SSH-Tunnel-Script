@@ -61,20 +61,17 @@ cat >> "$FILE2" <<EOL
 <html>
 <body>
 <b><h3><font color="#17A589">&#127480;&#127468; JARVIS SG SERVER &#127480;&#127468;</font>
-<br>
-<br>
-<b><font color="#E74C3C">&#128683; NO SPAM &#128683</font></b><br>
+<br></b><br><b><font color="#E74C3C">&#128683; NO SPAM &#128683</font></b><br>
 <b><font color="#E74C3C">&#128683; NO DDOS &#128683</font></b><br>
 <b><font color="#E74C3C">&#128683; NO HACKING &#128683</font></b><br>
 <b><font color="#E74C3C">&#128683; NO CARDING &#128683</font></b><br>
 <b><font color="#E74C3C">&#128683; NO TORRENT &#128683</font></b><br>
 <b><font color="#E74C3C">&#128683; NO OVER DOWNLOADING &#128683</font></b><br>
-<br>
-
 <b><h4><font color="#E74C3C">&#9888;&#65039; අවවාදයයි! &#9888;&#65039;</font>
 <br>
-<font color="#FFFF00"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. <br> Auto Reboot 4.00 A.M. <br> Expire Date : 2020 Nov 10</font></h4></b><br>
-<b><h4><font color="#66ff6d">&#128304; Configured By DINUKA CREATION &#128304;</font>
+<font color="#FFFF00"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න. <br> Auto Reboot 4.00 A.M. <br> Expire Date : 2020 Nov 10</font></h4></b>
+<b><h4><font color="#4285F4">&#128304; G</font><font color="#DB4437">o</font><font color="#F4B400">o</font><font color="#4285F4">g</font><font color="#0F9D58">l</font><font color="#DB4437">e</font>
+<font color="#4285F4"> S</font><font color="#DB4437">e</font><font color="#F4B400">r</font><font color="#4285F4">v</font><font color="#0F9D58">e</font><font color="#DB4437">r</font><font color="#66ff6d"> By DINUKA CREATION &#128304;</font>
 <br>
 <font color="#66ff6d">&#127473;&#127472; WhatsApp : +44 7529 2042 52 &#127473;&#127472;</font></h4></b>
 </body>
