@@ -69,7 +69,7 @@ cat >> "$FILE2" <<EOL
 <b><font color="#E74C3C">&#128683; NO OVER DOWNLOADING &#128683</font></b><br>
 <b><h4><font color="#E74C3C">&#9888;&#65039; අවවාදයයි! &#9888;&#65039;</font>
 <br>
-<font color="#C0392B"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න.<br> Expire Date : 2021 July 06</font></h4></b>
+<font color="#C0392B"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න.<br> Expire Date : 2021 Aug 09</font></h4></b>
 <b><h4><font color="#008AD7">&#128304; Bonga Bro &#128304;</font>
 <br>
 <font color="#66ff6d">&#127473;&#127472; Telegram : @RamiruVindiya &#127473;&#127472;</font></h4></b>
