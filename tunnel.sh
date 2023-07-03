@@ -78,19 +78,18 @@ EOF
 cat << EOF > /etc/banner
 <html>
 <body>
-<b><h3><font color="#17A589">&#127480;&#127468; JARVIS SG SERVER &#127480;&#127468;</font>
-<br></b><br><b><font color="#E74C3C">&#128683; NO SPAM &#128683</font></b><br>
-<b><font color="#E74C3C">&#128683; NO DDOS &#128683</font></b><br>
-<b><font color="#E74C3C">&#128683; NO HACKING &#128683</font></b><br>
-<b><font color="#E74C3C">&#128683; NO CARDING &#128683</font></b><br>
-<b><font color="#E74C3C">&#128683; NO TORRENT &#128683</font></b><br>
-<b><font color="#E74C3C">&#128683; NO OVER DOWNLOADING &#128683</font></b><br>
-<b><h4><font color="#E74C3C">&#9888;&#65039; අවවාදයයි! &#9888;&#65039;</font>
+<b><h3><font color="#284b63">Frinobit LLC SG Server</font>
+<br></b><br><b><font color="#3c6e71">&#128683; NO SPAM &#128683</font></b><br>
+<b><font color="#3c6e71">&#128683; NO DDOS &#128683</font></b><br>
+<b><font color="#3c6e71">&#128683; NO HACKING &#128683</font></b><br>
+<b><font color="#3c6e71">&#128683; NO CARDING &#128683</font></b><br>
+<b><font color="#3c6e71">&#128683; NO TORRENT &#128683</font></b><br>
+<b><font color="#3c6e71">&#128683; NO OVER DOWNLOADING &#128683</font></b><br>
+<b><h4><font color="#E74C3C">&#9888;&#65039; Warning &#9888;&#65039;</font>
+<br><br>
+<font color="#8d8d92"> Avoid using for Torrent.<br> Expire Date : 2023 Aug 03</font></h4></b>
 <br>
-<font color="#C0392B"> Torrent සදහා භාවිතා කිරීමෙන් වළකින්න.<br> Expire Date : 2021 Aug 09</font></h4></b>
-<b><h4><font color="#008AD7">&#128304; DINUKA CREATION &#128304;</font>
-<br>
-<font color="#66ff6d">&#127473;&#127472; Telegram : @Dinuka_Sandeepa &#127473;&#127472;</font></h4></b>
+</h4></b>
 </body>
 </html>
 EOF
